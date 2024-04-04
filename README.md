@@ -1,1 +1,1 @@
-# General-Storw-Management-System
+# General-Store-Management-System
